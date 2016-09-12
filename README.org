@@ -420,6 +420,7 @@ External Guides:
    - [[https://github.com/phillord/lentic][lentic]] -  Create views of the same content in two Emacs buffers.
    - [[https://github.com/mrkkrp/fix-word][fix-word]] - Transform words in Emacs (upcase, downcase, capitalize)
    - [[https://github.com/mrkkrp/zzz-to-char][zzz-to-char]] - Fancy replacement for `zap-to-char`
+   - [[https://github.com/joodland/bm][Visual Bookmarks]] - Visual Bookmarks for GNU Emacs
 
 *** Kill-ring
 
